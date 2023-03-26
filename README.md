@@ -2,7 +2,7 @@
 
 ## [App Link](https://pholaway72.shinyapps.io/projectapp/)
 
-The purpose of this project was to develop a movie recommender app using RShiny. The [data](https://github.com/pholaway72/Movie_Recommender_App/tree/main/data) used for this app contains movie reviews for 3,883 movies from 6,040 uniqure MovieLen users who joined MovieLen in 2000. There are two different methods implemented in this app for users to get movie recommendations.
+The purpose of this project was to develop a movie recommender app using RShiny. The [data](https://github.com/pholaway72/Movie_Recommender_App/tree/main/data) used for this app contains movie reviews for 3,883 movies from 6,040 unique MovieLen users who joined MovieLen in 2000. There are two different methods implemented in this app for users to get movie recommendations.
 
 1. Genre Input
 2. User-Based Collaborative Filtering (UBCF)
